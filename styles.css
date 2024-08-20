@@ -1,0 +1,44 @@
+body{
+    width: 40;
+background-color: black;}
+
+.img{display: block;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: ;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.btn{
+    display: block;
+    padding: 20px;
+    width: 400px;
+    margin: 0px auto;
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px;
+    color: white;
+    font-weight: bold;
+    
+    
+}
+.div{display: block;
+    padding: 20px;
+    width: 400px;
+    margin: 0px auto;
+    text-align: center;
+    
+}
+.div2{background: #383838;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 400px;
+    margin-right: 400px;
+    
+}
